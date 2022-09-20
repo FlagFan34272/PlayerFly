@@ -1,0 +1,13 @@
+name: Yfallentp
+version: '${project.version}'
+main: me.nyaneo.yfallen.yfallentp.Yfallentp
+api-version: 1.18
+commands:
+  fly:
+    description:
+
+  unfly:
+    description:
+
+  update:
+    description:
